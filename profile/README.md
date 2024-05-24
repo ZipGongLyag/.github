@@ -88,42 +88,42 @@
 |메인 페이지|
 |-|
 |![image](https://github.com/ZipGongLyag/.github/assets/85926257/ff626db1-83b7-4109-929a-92be84d92534)|
-|- 카카오 지도 API UI|
+|- **카카오 지도 API**를 기반으로 **사이드 네비게이션**을 통해 **주변 실거래가 정보 내역**을 조회할 수 있습니다.|
 
 <br/>
 
 |검색 페이지|
 |-|
 |![캡처](https://github.com/ZipGongLyag/.github/assets/85926257/232d502a-672f-421a-a0b3-5a6b4e513173)|
-||
+| - **검색 키워드** 및 **지도의 중앙 위.경도값**을 기준으로 **주변 실거래가 정보 내역**을 조회할 수 있습니다.|
 
 <br/>
 
 |로그인 페이지|
 |-|
 |![image](https://github.com/ZipGongLyag/.github/assets/85926257/c12a4b61-e015-4752-a8ee-6a35b4ea0778)|
-|- ID와 Password 기반의 로그인 기능을 구현하였습니다. \n- ㄴㄷ|
+| - **ID**와 **Password** 기반의 로그인 기능을 구현하였습니다. <br/> - 로그인 성공 시, **JWT**를 발급하여 **사용자의 Role**에 따라 API 사용을 제한하였습니다.|
 
 <br/>
 
 |회원가입 페이지|
 |-|
 |![image](https://github.com/ZipGongLyag/.github/assets/85926257/165d11ee-282d-4d2d-b93c-de750811f069)|
-||
+| - 사용자로부터 아이디, 비밀번호, 이름, 이메일을 제공받아 회원가입 기능을 구현하였습니다. |
 
 <br/>
 
 |Q&A 페이지|
 |-|
 |![캡처](https://github.com/ZipGongLyag/.github/assets/85926257/b1127468-7bfa-4d3a-8f4b-3474bb618848)|
-||
+| - **사용자와 관리자가 소통할 수 있는 창구**인 Q&A 게시판 기능을 구현하였습니다.|
 
 <br/>
 
 |부동산 뉴스 API|
 |-|
 |![캡처](https://github.com/ZipGongLyag/.github/assets/85926257/f14705c5-ac6b-412e-833f-1287fe81fc24)|
-||
+| - **네이버 API**를 통해 네이버 검색의 뉴스 검색 결과를 제공하는 기능을 구현하였습니다.|
 
 <br/>
 
