@@ -8,6 +8,12 @@
 ## 🗃️ 프로젝트 소개
 **집공략**은 공공데이터 포털의 [국토교통부_아파트매매 실거래 상세 자료](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15057511)와 [Kakao Map API](https://apis.map.kakao.com/web/sample/)를 활용한 주택 매물 검색 서비스입니다.
 
+## 📽️ 시연 영상
+
+🔗 [🏠집공략! - 주택 매물 검색 서비스🏠 시연 영상](https://youtu.be/hOWh54xfU3M)
+
+![image](https://github.com/ZipGongLyag/.github/assets/85926257/9b36e2af-d93b-4cbf-b5a7-6256af45eb10)
+
 ## 멤버
 |Role|Front-End|Back-End|
 |:-:|:-:|:-:|
@@ -78,10 +84,48 @@
 </div>
 
 ## 🖥️ 화면구성
-|****|
+
+|메인 페이지|
 |-|
+|![image](https://github.com/ZipGongLyag/.github/assets/85926257/ff626db1-83b7-4109-929a-92be84d92534)|
+|- 카카오 지도 API UI|
+
+<br/>
+
+|검색 페이지|
+|-|
+|![캡처](https://github.com/ZipGongLyag/.github/assets/85926257/232d502a-672f-421a-a0b3-5a6b4e513173)|
 ||
-----------------------
+
+<br/>
+
+|로그인 페이지|
+|-|
+|![image](https://github.com/ZipGongLyag/.github/assets/85926257/c12a4b61-e015-4752-a8ee-6a35b4ea0778)|
+|- ID와 Password 기반의 로그인 기능을 구현하였습니다. \n- ㄴㄷ|
+
+<br/>
+
+|회원가입 페이지|
+|-|
+|![image](https://github.com/ZipGongLyag/.github/assets/85926257/165d11ee-282d-4d2d-b93c-de750811f069)|
+||
+
+<br/>
+
+|Q&A 페이지|
+|-|
+|![캡처](https://github.com/ZipGongLyag/.github/assets/85926257/b1127468-7bfa-4d3a-8f4b-3474bb618848)|
+||
+
+<br/>
+
+|부동산 뉴스 API|
+|-|
+|![캡처](https://github.com/ZipGongLyag/.github/assets/85926257/f14705c5-ac6b-412e-833f-1287fe81fc24)|
+||
+
+<br/>
 
 ## 📄 Diagram
 
